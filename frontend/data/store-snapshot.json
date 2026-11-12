@@ -21,6 +21,7 @@
     "color_text_main": "#050505",
     "color_tab_active": "#3fc641",
     "color_tab_inactive": "#ffffff",
+    "seller_whatsapp_number": "923218234442",
     "template_seller_msg": "New Order Alert from {customer_name}! Items: {item_list}. Total: Rs. {order_total}. Address: {customer_address}.",
     "template_customer_msg": "As-salamu alaykum {customer_name}, thank you for your order at {store_name}! Your total selection equals Rs. {order_total}. We have compiled your invoice statement below.",
     "invoice_greeting": "Thank you for supporting our curation archive. Wear your pieces with care.",
