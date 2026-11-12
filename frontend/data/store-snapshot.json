@@ -164,6 +164,16 @@
       "description": "Men's French Terry Hoodie Half Zipper with Acide wash",
       "image_url": "/images/products/325e81984ad699d4d6d98f5d03742c7b.webp",
       "model_image_url": "/images/products/ae54e0d215a43ca5f9e81b35d8a9f2e7.webp"
+    },
+    {
+      "id": 16,
+      "name": "Tee Shirt",
+      "category": "Knitted",
+      "price": 800.0,
+      "stock": 5,
+      "description": "Acid wash Jersey Tee",
+      "image_url": "/images/products/4a08132ead79a7495d84652fdef0de45.webp",
+      "model_image_url": "/images/products/5228b13945d40016082c0b59f32a30df.webp"
     }
   ]
 }
